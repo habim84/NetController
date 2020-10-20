@@ -1,0 +1,2 @@
+C:\Users\Harith\Documents\Tools\NetController\NetController\NetControllerClient\x64\Debug\NetControllerClient.exe
+C:\Users\Harith\Documents\Tools\NetController\NetController\NetControllerClient\x64\Debug\NetControllerClient.pdb
